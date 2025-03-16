@@ -1,0 +1,1 @@
+aws cloudfront create-invalidation --profile olmec-dev-admin --distribution-id E24SVF8G4T7H68 --paths "/*"
